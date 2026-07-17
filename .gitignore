@@ -1,0 +1,9 @@
+# Arquivos temporários do DuckDB
+*.wal
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
