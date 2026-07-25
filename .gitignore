@@ -7,3 +7,6 @@
 # Arquivos temporários
 .DS_Store
 Thumbs.db
+
+*.duckdb
+duckdb.exe
