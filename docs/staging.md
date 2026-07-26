@@ -16,3 +16,10 @@ Foram realizadas as seguintes transformações:
 ## Resultado
 
 Foi criada a tabela `stg_taxi`, contendo apenas registros considerados válidos para a etapa de modelagem.
+
+## validaçoes
+
+![validacao1](images/validacaostgtaxi.png)
+---
+![validacaodois](images/validacao2.png)
+---
