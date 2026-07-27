@@ -1,16 +1,13 @@
 # Arquivos temporários do DuckDB
 *.wal
+*.duckdb
+
+# Executável DuckDB
+duckdb.exe
 
 # VS Code
 .vscode/
 
 # Arquivos temporários
 .DS_Store
-<<<<<<< HEAD
 Thumbs.db
-=======
-Thumbs.db
-
-*.duckdb
-duckdb.exe
->>>>>>> f5c8340eb7da15dad5d74984fd784f110cd04a0c
