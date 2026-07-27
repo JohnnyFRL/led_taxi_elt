@@ -170,7 +170,7 @@ Arquivos utilizados:
 
 O arquivo `database.duckdb` não foi versionado neste repositório porque seu tamanho excede o limite permitido pelo GitHub para arquivos individuais.
 
-Para reproduzir o projeto, basta adicionar os arquivos do dataset na pasta `data/` e executar os scripts SQL na ordem apresentada.
+Para reproduzir o projeto, basta adicionar os arquivos do dataset na pasta do projeto e executar os scripts SQL na ordem apresentada.
 
 ---
 
