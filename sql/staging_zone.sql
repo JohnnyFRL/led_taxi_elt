@@ -1,0 +1,3 @@
+CREATE TABLE stg_zones AS
+SELECT DISTINCT *
+FROM raw_zones;
