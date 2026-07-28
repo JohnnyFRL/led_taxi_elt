@@ -11,6 +11,8 @@ Foram realizadas as seguintes transformações:
 - Remoção de registros duplicados (`SELECT DISTINCT`);
 - Remoção de viagens com distância menor ou igual a zero;
 - Remoção de viagens com horário de desembarque menor ou igual ao horário de embarque;
+- Remoção de viagens com tempo maior do que 6 horas;
+- Remoção de viagens com distância maior do que 100 milhas;
 - Remoção de registros com valores nulos em `passenger_count`.
 
 ## Resultado
