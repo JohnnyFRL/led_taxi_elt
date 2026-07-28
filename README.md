@@ -27,7 +27,7 @@ Durante a etapa de transformação foram realizadas operações de limpeza dos d
 ├── sql/
 │   ├── 01_raw.sql
 │   ├── 02_staging.sql
-│   ├── 03_modelagem.sql
+│   └── 03_modelagem.sql
 │   
 │
 ├── README.md
