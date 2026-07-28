@@ -28,7 +28,7 @@ Durante a etapa de transformação foram realizadas operações de limpeza dos d
 │   ├── 01_raw.sql
 │   ├── 02_staging.sql
 │   ├── 03_modelagem.sql
-│   └── 04_analises.sql
+│   
 │
 ├── README.md
 └── .gitignore
@@ -141,9 +141,7 @@ data/
 ```text
 01_raw.sql
 02_staging.sql
-03_modelagem.sql
-04_analises.sql
-```
+03_modelagem.sql```
 
 Ao final da execução será criado o banco de dados **database.duckdb** contendo todas as tabelas do projeto.
 
